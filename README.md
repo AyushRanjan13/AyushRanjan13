@@ -20,7 +20,7 @@ I’m an aspiring **Software Developer** passionate about solving real-world pro
   - **Frontend and Backend Development** with **Next.js** and **Firebase**.
 
 - 📫 **Reach Me At**:  
-  - Email: [ayush132005@gmail.com](mailto:ayush132005@gmail.com)  
+  - Email: [ayush132005@gmail.com](mailto:ayushranjan132005@gmail.com)  
   - GitHub: [AyushRanjan13](https://github.com/AyushRanjan13)
 
 - ⚡ **Fun Fact**:  
