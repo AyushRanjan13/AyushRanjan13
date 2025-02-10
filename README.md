@@ -45,14 +45,6 @@ I’m an aspiring **Software Developer** passionate about solving real-world pro
 
 ## 🚀 Featured Projects:
 
-### 📝 [Trello Clone](https://github.com/AyushRanjan13/TrelloClone)
-A collaborative task management app inspired by **Trello**, built using **Next.js**. Includes drag-and-drop task organization, user authentication, and real-time updates.
-
-- **Tech Stack**: Next.js, Firebase (Auth, Firestore), Tailwind CSS
-- **Features**: Task creation, board management, and responsive design.
-
----
-
 ### 🤖 [Building AI-Driven Full-Stack Apps](https://github.com/AyushRanjan13/AI-Apps)
 An experimental project to integrate **AI models** with full-stack applications using **Next.js** and **Firebase**. Implements features like AI-based text analysis and prediction.
 
