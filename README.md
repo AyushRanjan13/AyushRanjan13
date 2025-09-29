@@ -61,34 +61,6 @@ ReactJS app providing **real-time weather updates** worldwide using OpenWeather 
 - **Tech Stack**: ReactJS, Tailwind CSS, OpenWeather API  
 - **Features**: Temperature, humidity, sunrise, sunset times
 
-### 💻 [EximPro - Export-Import]
-- **Tech Stack**: JavaScript  
-- Updated: May 31
-
-### 💼 [Carevo - Job Portal]
-- **Tech Stack**: JavaScript  
-- Updated: May 25
-
-### 🧠 [Coding Interview Platform]
-- **Tech Stack**: TypeScript  
-- Updated: May 24
-
-### 📸 [PicFix - Photo Editing Software]
-- **Tech Stack**: Python  
-- Updated: Apr 17
-
-### 🌐 [MERN Project]
-- **Tech Stack**: JavaScript  
-- Updated: Jan 19
-
-### 🔥 [React Project New]
-- **Tech Stack**: JavaScript  
-- Updated: Jan 16
-
-### ⚡ [React Firebase Project]
-- **Tech Stack**: JavaScript, Firebase  
-- Updated: Feb 10
-
 ---
 
 ## 💡 Let's Connect:
